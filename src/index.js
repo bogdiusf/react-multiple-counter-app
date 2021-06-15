@@ -1,6 +1,7 @@
-import IncrementBar from './IncrementBar';
+import App from './Homework-june/App';
 import ReactDOM from 'react-dom';
+import React from 'react';
 
 ReactDOM.render(
-    <IncrementBar/>, document.getElementById('root')
+    <App />, document.getElementById('root')
 )
